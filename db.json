@@ -1,1 +1,121 @@
-{  "cases": [    {      "id": 1,      "name": "json-server",      "date": "typicode",	  "reporter": "typicode",	  "justice": "typicode"	    }  ],  "comments": [    {      "id": 1,      "body": "some comment",      "caseId": 1    }  ]}
+{
+  "cases": [
+    {
+      "id": 1,
+      "name": "HALLIBURTON OIL WELL CEMENTING CO. v. WALKER et al., DOING BUSINESS AS DEPTHOGRAPH CO.",
+      "date": "1946",
+	  "reporter": "329 U.S. 1",
+	  "justice": "HLBlack"
+    },
+	{
+	  "id": 2,
+      "name": "FUNK BROTHERS SEED CO. v. KALO INOCULANT CO.",
+      "date": "1947",
+	  "reporter": "333 U.S. 127",
+	  "justice": "WODouglas"
+	},
+	{
+	  "id": 3,
+      "name": "UNITED STATES v. WOODS",
+      "date": "2012",
+	  "reporter": "570 U.S. 729",
+	  "justice": "AScalia"
+	},
+	{
+	  "id": 4,
+      "name": "SEKHAR v. UNITED STATES",
+      "date": "2013",
+	  "reporter": "571 U.S. 31",
+	  "justice": "AScalia"
+	},
+	{
+	  "id": 5,
+      "name": "MATTHEW ROBERT DESCAMPS, PETITIONER v. UNITED STATES",
+      "date": "2012",
+	  "reporter": "570 U.S. 254",
+	  "justice": "EKagan"
+	},
+	{
+	  "id": 6,
+      "name": "UNITED STATES DEPARTMENT OF COMMERCE, et al. v. MONTANA, et al.",
+      "date": "1991",
+	  "reporter": "503 U.S. 442",
+	  "justice": "JPStevens"
+	},
+	{
+	  "id": 7,
+      "name": "MORRISON, INDEPENDENT COUNSEL v. OLSON et al.",
+      "date": "1987",
+	  "reporter": "487 U.S. 654",
+	  "justice": "WHRehnquist"
+	},
+	{
+	  "id": 8,
+      "name": "UNITED STATES v. TAYLOR",
+      "date": "2012",
+	  "reporter": "570 U.S. 254",
+	  "justice": "EKagan"
+	},
+	{
+	  "id": 9,
+      "name": "ANDERSON et al. v. MARTIN",
+      "date": "1963",
+	  "reporter": "375 U.S. 399",
+	  "justice": "TCClark"
+	},
+	{
+	  "id": 10,
+      "name": "FITZGERALD, PUBLIC ADMINISTRATOR, v. UNITED STATES LINES CO.",
+      "date": "1962",
+	  "reporter": "374 U.S. 16",
+	  "justice": "HLBlack"
+	},
+	{
+	  "id": 11,
+      "name": "COUNTY OF SACRAMENTO, et al. v. TERI LEWIS AND THOMAS LEWIS, PERSONAL REPRESENTATIVES OF THE ESTATE OF PHILIP LEWIS, DECEASED",
+      "date": "1997",
+	  "reporter": "523 U.S. 833",
+	  "justice": "DHSouter"
+	},
+	{
+	  "id": 12,
+      "name": "J. MCINTYRE MACHINERY, LTD., PETITIONER v. ROBERT NICASTRO, INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF ROSEANNE NICASTRO",
+      "date": "2012",
+	  "reporter": "570 U.S. 254",
+	  "justice": "EKagan"
+	},
+	{
+	  "id": 13,
+      "name": "CARNIVAL CRUISE LINES, INC. v. SHUTE ET VIR",
+      "date": "1990",
+	  "reporter": "499 U.S. 585",
+	  "justice": "HABlackmun"
+	},
+	{
+	  "id": 14,
+      "name": "DOMINO'S PIZZA, INC., et al. v. JOHN MCDONALD",
+      "date": "2005",
+	  "reporter": "546 U.S. 470",
+	  "justice": "AScalia"
+	},
+	{
+	  "id": 15,
+      "name": "INTERNATIONAL UNION, UNITED MINE WORKERS OF AMERICA, et al. v. JOHN L. BAGWELL et al.",
+      "date": "1993",
+	  "reporter": "512 U.S. 821",
+	  "justice": "HABlackmun"
+	},
+	  
+	  
+
+  ],
+  "comments": [
+    {
+      "id": 1,
+	  "username": "LegalExpert",
+      "body": "some comment",
+	  "timestamp": "July 1st, 2022",
+      "caseId": 1
+    }
+  ]
+}
