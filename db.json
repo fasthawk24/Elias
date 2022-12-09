@@ -1,0 +1,1 @@
+{  "cases": [    {      "id": 1,      "name": "json-server",      "date": "typicode",	  "reporter": "typicode",	  "justice": "typicode"	    }  ],  "comments": [    {      "id": 1,      "body": "some comment",      "caseId": 1    }  ]}
